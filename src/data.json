@@ -1,0 +1,7 @@
+{
+    "projects" : [
+        { "id":1, "project": "project1", "slug": "project-1"},
+        { "id":2, "project": "project2", "slug": "project-2"},
+        { "id":3, "project": "project3", "slug": "project-3"}
+    ]
+}
